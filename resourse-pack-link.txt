@@ -1,1 +1,1 @@
-test
+https://storage.googleapis.com/gaimcraft/resourcepacks/gaimcraft_resourcepack.zip
