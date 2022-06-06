@@ -1,1 +1,4 @@
-link:
+gaimin.server.url.qa=https://api.qa.gaimin.gg/api/games/minecraft
+gaimin.server.url.prod=https://api.gaimin.gg/api/games/minecraft
+
+resourcepack=
